@@ -1,4 +1,4 @@
-## Kafka Internals Part-1 (introduction to kafka)
+## A complete introduction to Kafka
 
 ## Introduction
 

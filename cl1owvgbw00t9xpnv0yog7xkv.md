@@ -123,3 +123,22 @@ Search for a shape and add it to the diagram
 
 
 ![SCR-20220407-ku8.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649329590413/j2Q9Eoy26.png)
+
+
+## Diagrams as a code
+
+If you like to represent diagrams using code, then there are tools like [Mingrammer](https://diagrams.mingrammer.com/).
+
+### Pros
+
+1. Huge availability of tools including on-premise, AWS etc...
+2. Easily draw diagrams
+3. Open-source
+
+### Cons
+
+1. Learing curve
+2. Supports only `python3`
+
+There are some examples given here - [https://diagrams.mingrammer.com/docs/getting-started/examples](https://diagrams.mingrammer.com/docs/getting-started/examples)
+

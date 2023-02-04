@@ -209,3 +209,9 @@ def timeit(func):
         return result
     return wrapper
 ```
+
+If you prefer a video version, check out 👇
+
+%[https://www.youtube.com/watch?v=puMqIA4NNmc] 
+
+%[https://youtu.be/4EiEUyvD0KU]

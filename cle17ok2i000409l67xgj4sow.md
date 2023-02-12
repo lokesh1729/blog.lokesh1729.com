@@ -2,11 +2,11 @@
 
 ## Introduction
 
-How many heard the phrase "Cache invalidation is the toughest problem in computer science?" I was first introduced to the term "cache" in my computer architecture class in engineering. When I first learned, I did not understand the concept. It took me some years to completely understood the concept. In this blog post, we will look at the basics of caching, different strategies, and the implementation of each strategy.
+How many heard the phrase "Cache invalidation is the toughest problem in computer science?" I was first introduced to the term "cache" in my computer architecture class in engineering. When I first learned, I did not understand the concept. It took me some years to wholly understood the concept. In this blog post, we will look at the basics of caching and different strategies.
 
 ## Basics
 
-What is caching? caching is a mechanism of storing data in fast and secondary storage temporarily. The main goal of caching is to decrease the response time and increase speed. The fundamental concept is simple, primary storage gives persistence and durability which stores the data permanently. But, they are slow. We need secondary storage that is fast but temporary. That's what the RAMs are designed for. They are fast but the data stored in them is temporary. We also call RAM in-memory. Let's try to understand the mechanism with the diagram below.
+What is caching? caching is a mechanism of storing data in fast and secondary storage temporarily. The main goal of caching is to decrease the response time and increase speed. The fundamental concept is simple, primary storage gives persistence and durability that stores the data permanently. But, they are slow. We need secondary storage that is fast but temporary. That's what the RAMs are designed for. They are fast but the data stored in them is temporary. We also call RAM in-memory. Let's try to understand the mechanism with the diagram below.
 
 ![An iamge showing flow of cache](https://cdn.hashnode.com/res/hashnode/image/upload/v1676030909030/8e98d984-409a-49f0-950f-3c85b3aad914.png align="center")
 
@@ -43,7 +43,7 @@ This is the most common pattern. We already discussed this in the above flow dia
 
 ![cache aside flow](https://cdn.hashnode.com/res/hashnode/image/upload/v1676194659766/8298fd8e-aa8a-4e3d-9b2b-fbbff16326f6.png align="center")
 
-### Read/Write Through
+### Read Through
 
 In cache through pattern, the application server asks the cache for the data, in case of a cache miss, the cache itself fetches from the database and saves in the cache. In order to implement this pattern, the caching software should have libraries to integrate with the database technology. Very few caching software implement this pattern. An example is [AWS DAX which integrates with DynamoDB](https://aws.amazon.com/dynamodb/dax/).
 

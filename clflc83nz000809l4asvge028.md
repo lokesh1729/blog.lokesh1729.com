@@ -12,7 +12,7 @@ tags: python, django, openai, chatgpt
 
 When ChatGPT was released, everyone was in awe, and a few people built production on top of it. I was also in the same hype and created a product. It is called [domain hunter](https://domainhunterr.com) — A tool that generates domains that are available for registration using OpenAI. You give terms in the search bar and it generates the domains.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679586354166/ac35cfa5-a896-4d9c-abcf-8dfd962b43f1.gif align="center")
+![An image showing domain hunter homepage](https://cdn.hashnode.com/res/hashnode/image/upload/v1679590633050/91bfd7c8-c003-4cb4-9923-64c452beebf4.png align="center")
 
 ## System Design
 

@@ -1,8 +1,9 @@
 ---
-title: "Implementing HTTP Retry in Java and Spring Boot"
+title: "HTTP Retry with Exponential Backoff in Java and Spring Boot"
 datePublished: Thu Mar 23 2023 11:42:44 GMT+0000 (Coordinated Universal Time)
 cuid: clfl1nvc2000p0amffb2dbdbt
-slug: implementing-http-retry-in-java-and-spring-boot
+slug: http-retry-with-exponential-backoff-in-java-and-spring-boot
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679584540494/64849dc4-e212-4c2b-886a-71b9fe071e9c.png
 tags: spring, java, springboot, spring-framework
 
 ---

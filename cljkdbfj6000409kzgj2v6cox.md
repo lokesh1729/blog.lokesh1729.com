@@ -28,3 +28,17 @@ For emergency funds, it is a no-brainer to go with liquid funds. So, I selected 
 For long-term goals which are greater than 5 years, I simply had chosen the index funds. One reason is in the long run, index funds give good returns over any other active funds. They also have a very low expense ratio. Also, there is no headache of rebalancing, taxes computation, etc... [NiyoMoney had recommended](https://www.niyomoney.com/blog/the-2022-list-of-recommended-mutual-funds-on-niyo-money/) the same, so I simply went with them.
 
 ![long term mutual funds](https://cdn.hashnode.com/res/hashnode/image/upload/v1688237944706/3107b006-3dec-4ce7-99e6-9ab795683b11.png align="center")
+
+# Tax Saving Goals
+
+## Health Insurance
+
+Under Section 80D, we can get deductions of 50,000 for the health insurance of parents and self-family. I bought [HDFC ergo optima secure health insurance](https://www.hdfcergo.com/docs/default-source/downloads/brochures/optima-secure-brochure.pdf) for 50,000 and claimed it as an income tax deduction.
+
+## NPS
+
+Very few people know that over and above the 80C limit of 1,50,000 we can get more exemptions. Under 80CCD(1B), the employee contributions to NPS are exempted up to Rs. 50,000 per year. Also under 80CCD(2), the employer contributions (up to 10% of basic pay) are exempted over and above.
+
+## Term Insurance, ELSS mutual funds, SSY
+
+I have taken a term insurance which I pay 2700 per month and I invest 4000 every month in ELSS mutual funds. I also invest in SSY for my daughter 6000 every month. All of this constitutes to 1,50,000 which is 80C limit. We also have EPF contributions by employer which comes under 80C.

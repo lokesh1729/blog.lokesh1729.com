@@ -29,6 +29,12 @@ For long-term goals which are greater than 5 years, I simply had chosen the inde
 
 ![long term mutual funds](https://cdn.hashnode.com/res/hashnode/image/upload/v1688237944706/3107b006-3dec-4ce7-99e6-9ab795683b11.png align="center")
 
+Apart from index funds, I wanted to invest in some of the active funds so that my portfolio will be diversified. For this, I selected flexi-cap, small-cap, contra, and focused fund categories.
+
+![long term active funds](https://cdn.hashnode.com/res/hashnode/image/upload/v1688275817237/8f75943b-bb96-4bcc-8599-c190b0e1180f.png align="center")
+
+I selected [Parag Parikh Flexi Cap Direct-Growth](https://www.valueresearchonline.com/funds/19701/parag-parikh-flexi-cap-fund-direct-plan/), [Quant Focused Fund Direct-Growth](https://www.valueresearchonline.com/funds/17373/quant-focused-fund-direct-plan/), [Nippon Sensex Index Fund Direct-Growth](https://www.valueresearchonline.com/funds/16859/nippon-india-index-fund-sp-bse-sensex-plan-direct-plan/), and [Axis Small Cap Direct-Growth](https://www.valueresearchonline.com/funds/22335/axis-small-cap-fund-direct-plan/). The reasons would be rating by agencies, expense ratio, and historical returns.
+
 # Tax Saving Goals
 
 ## Health Insurance
@@ -41,4 +47,4 @@ Very few people know that over and above the 80C limit of 1,50,000 we can get mo
 
 ## Term Insurance, ELSS mutual funds, SSY
 
-I have taken a term insurance which I pay 2700 per month and I invest 4000 every month in ELSS mutual funds. I also invest in SSY for my daughter 6000 every month. All of this constitutes to 1,50,000 which is 80C limit. We also have EPF contributions by employer which comes under 80C.
+I have taken term insurance which I pay 2700 per month and I invest 4000 every month in ELSS mutual funds. I also invest in SSY for my daughter 6000 every month. All of this constitutes 1,50,000 which is the 80C limit. We also have EPF contributions by the employer that comes under 80C.

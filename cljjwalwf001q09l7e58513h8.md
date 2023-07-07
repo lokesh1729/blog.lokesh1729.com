@@ -12,13 +12,13 @@ I started my career in 2015. I have tried several ways to track my expenses. I h
 
 # Tracking Expenses
 
-In 2015, I used [walnut (now axios)](https://axio.co.in/walnut/) app to track my expenses. I used to track each and every penny using the app. From net banking, credit card, debit card, and cash transactions, everything I used to track. At that time, I didn't think about investments much. It also helped me in reminding myself about the bills. But, at that time, I didn't concerned about my data privacy. I didn't know that I am giving permission to read all my SMS'es and transactional data.
+In 2015, I used [walnut (now axios)](https://axio.co.in/walnut/) app to track my expenses. I used to track every penny using the app. From net banking, credit card, debit card, and cash transactions, everything I used to track. At that time, I didn't think about investments much and didn't concerned about my data privacy either. Most of us don't realize the impact of giving an app permission to read all the SMS'es and transactional data. It has its pros and cons. One of the pros is that fintech companies use the data to analyze financial behavior and give better loan offers. But the con is the data we are giving them is permanent, they can use it for a very long time and may share it with other companies too.
 
-Later, in 2020, I created a spreadsheet to enter the data in a summary format, to get a clear picture. Today, I realized that I should have simply exported the data from Walnut and simply put it in the spreadsheet.
+Later, in 2020, I created a spreadsheet to enter the data in a summary format, to get a clear picture. Today, I realized that I should have exported the data from Walnut and put it in the spreadsheet 🤦‍♂️.
 
 ![Spreadsheet template](https://cdn.hashnode.com/res/hashnode/image/upload/v1688206688252/0cbacc1d-d6ef-4cf4-bf4c-2a095d39e005.png align="center")
 
-Later in 2021, I improved the template to a better version. But, still, the manual process of entering from Walnut into the spreadsheet still exists.
+Later in 2021, I improved the template to a better version. But, still, the manual process of entering from Walnut into the spreadsheet exists.
 
 ![Spreadsheet template 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1688235670883/117f9360-6e6e-49a5-9027-e13388fd87ef.png align="center")
 
@@ -40,4 +40,4 @@ In 2021, I moved away from chit funds and started investing in mutual funds for 
 
 To inculcate financial discipline, it took a lot of time and so many hurdles. I remember, in 2018, I had given commitments to pay 75% of my salary to chit funds and at the end of every month, I had to look for money from friends or other sources of income. I used to take some freelancing work to earn that extra income and depend upon apps like Walnut for quick loans. That struggle made me focus on personal finance. In 2020, I spent some time on mutual funds, the stock market and understood how they work.
 
-**Invest first, Spend later culture -** I used to make a budget of expenses and investments. I try to live with very minimal expenses, so they are not even 20% of my salary. I try to invest as much as possible by keeping some money in an emergency fund which I use as a buffer too. I divide my investments into emergency, short-term, long-term, and tax-saving. Then, I find the investment options and put them.
+**Invest first, Spend later culture -** I used to make a budget of expenses and investments. I try to live with minimal expenses, so they are not even 20% of my salary. I try to invest as much as possible by keeping some money in an emergency fund which I use as a buffer too. I divide my investments into emergency, short-term, long-term, and tax-saving. Then, I find the investment options and put them.

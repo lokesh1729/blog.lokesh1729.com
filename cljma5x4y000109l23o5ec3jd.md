@@ -6,15 +6,15 @@ slug: personal-finance-my-investment-options-for-fy2023-24
 
 ---
 
-In this blog post, I want to share the investment options I choose for the financial year FY2023-24.
+In this blog post, I am sharing all my investment options across different goals for FY2023-24. I have written a similar [blog post for FY2022-23](https://blog.lokesh1729.com/personal-finance-my-investment-options-for-fy2022-23).
 
 # Emergency Fund
 
-Earlier, I invested in liquid funds for an emergency fund, despite they have given the instant redemption feature the returns are very low. So, for this year, I want to go for money market funds because they are offering good returns and I don't want an instant redemption feature.
+In FY2022-23, I invested in liquid funds for an emergency fund, despite they have given the instant redemption feature the returns are very low. So, for this year, I want to go for money market funds because they are offering good returns and I don't want an instant redemption feature.
 
 ![Emergency Fund](https://cdn.hashnode.com/res/hashnode/image/upload/v1688353536492/55a299b2-4481-4c3c-bb64-6e163bfb2a46.png align="center")
 
-I have shortlisted only two funds. Even though nippon has 5-star ratings from both agencies, the risk is moderate according to ValueResearch. So, I went ahead with "Tata Money Market Fund".
+I have shortlisted only two funds. Even though nippon has 5-star ratings from both agencies, the risk is moderate according to ValueResearch. So, I went ahead with [Tata Money Market Fund](https://www.valueresearchonline.com/funds/1731/tata-money-market-fund-regular-plan/).
 
 # Short Term Goals
 
@@ -32,6 +32,10 @@ For long-term goals, I have been investing in index funds for the past 2 years f
 
 ![Long term index funds](https://cdn.hashnode.com/res/hashnode/image/upload/v1688275293519/bc4a9ccb-cd87-4d07-8bf4-3cd2cd8d7cc3.png align="center")
 
-Apart from the index funds, I also started investing in equity active funds since last year. So, I am continuing the same this year but wanted to add a midcap fund to the portfolio. Hence, I selected Quant Midcap. Even though Motilal Oswal is giving good returns, there is negative rating in Morningstar.
+Apart from the index funds, I also started investing in equity active funds last year. So, I am continuing with the same funds but wanted to add a midcap fund to the portfolio. Hence, I selected [Quant Midcap Fund](https://www.valueresearchonline.com/funds/958/quant-mid-cap-fund/). Even though Motilal Oswal is giving good returns, there is a negative rating in Morningstar.
 
 ![Midcap mutual funds](https://cdn.hashnode.com/res/hashnode/image/upload/v1688353581422/3c8abf05-a99d-4eba-ae1a-8737b0d28ca3.png align="center")
+
+# Tax Saving Goals
+
+The tax saving goals are the same as [FY2022-23](https://blog.lokesh1729.com/personal-finance-my-investment-options-for-fy2022-23). Health Insurance, NPS, 80C.

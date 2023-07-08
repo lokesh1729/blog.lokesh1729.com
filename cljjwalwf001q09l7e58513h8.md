@@ -12,9 +12,9 @@ I started my career in 2015. I have tried several ways to track my expenses. I h
 
 # Tracking Expenses
 
-In 2015, I used [walnut (now axios)](https://axio.co.in/walnut/) app to track my expenses. I used to track every penny using the app. From net banking, credit card, debit card, and cash transactions, everything I used to track. At that time, I didn't think about investments much and didn't concerned about my data privacy either. Most of us don't realize the impact of giving an app permission to read all the SMS'es and transactional data. It has its pros and cons. One of the pros is that fintech companies use the data to analyze financial behavior and give better loan offers. But the con is the data we are giving them is permanent, they can use it for a very long time and may share it with other companies too.
+In 2015, I used [walnut (now axios)](https://axio.co.in/walnut/) app to track my expenses. I used to track every penny using the app. From net banking, credit card, debit card, and cash transactions, everything I used to track. At that time, I didn't think about investments much and didn't concerned about my data privacy either. Most of us don't realize the impact of giving an app permission to read all the SMS'es and transactional data. It has its pros and cons. One of the pros is that very few good fintech companies that are compliant with government regulations use the data to analyze financial behavior and give better loan offers. But the con is that the data we are giving them is permanent, they can use it for a very long time and may share it with other companies too.
 
-Later, in 2020, I created a spreadsheet to enter the data in a summary format, to get a clear picture. Today, I realized that I should have exported the data from Walnut and put it in the spreadsheet 🤦‍♂️.
+Later, in 2020, I created a spreadsheet to enter the data in a summary format, to get a clear picture. Later, I realized that I should have exported the data from Walnut and put it in the spreadsheet 🤦‍♂️ because the world runs on excel.
 
 ![Spreadsheet template](https://cdn.hashnode.com/res/hashnode/image/upload/v1688206688252/0cbacc1d-d6ef-4cf4-bf4c-2a095d39e005.png align="center")
 
@@ -22,7 +22,7 @@ Later in 2021, I improved the template to a better version. But, still, the manu
 
 ![Spreadsheet template 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1688235670883/117f9360-6e6e-49a5-9027-e13388fd87ef.png align="center")
 
-Later in 2022, I stopped using Walnut, since I moved to iPhone. I used to download bank statements, introspect them and enter them into the report. Until October 2022, I used to micro-manage the expenses a lot. I used to enter a single rupee into the reports to know the cash-in and cash-out flows. But, I moved to a macro-management approach of tracking only major expenses and budgeting my salary into expenses and investments by keeping them in separate bank accounts. So, when I budget X as living expenses, I kept them in a separate bank account, spend them from it, and look at how much is remaining at the month's end.
+Later in 2022, I stopped using Walnut, since I moved to iPhone. I started downloading the bank statements, introspecting them, and entering them into the report. Until October 2022, I used to micro-manage the expenses a lot. I used to enter a single rupee into the reports to know the cash-in and cash-out flows. But, I moved to a macro-management approach of tracking only major expenses and budgeting my salary into expenses and investments by keeping them in separate bank accounts. So, when I budget X as living expenses, I kept them in a separate bank account, spend them from it, and look at how much is remaining at the month's end.
 
 **The approach of macro-management and budgeting worked for me. It reduced my time to manage my finances and also gave the control over it.**
 
